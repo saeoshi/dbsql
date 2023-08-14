@@ -1,1 +1,1 @@
-CREATE OR REPLACE DATABASE suda_db_hackathon4lakehouse.trash;
+CREATE DATABASE IF NOT EXISTS suda_db_hackathon4lakehouse.trash;
